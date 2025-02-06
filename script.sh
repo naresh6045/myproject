@@ -1,3 +1,2 @@
 date
-#ls
 echo "naresh"
