@@ -5,4 +5,4 @@ branch2 2nd changes
 branch2 3rd changes
 Rebase changes
 rebase new changes
-
+navi changes to see merge conflict
